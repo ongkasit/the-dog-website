@@ -67,6 +67,8 @@ class App extends Component {
           <option value="beagle">Beagle</option>
           <option value="corgi">Corgi</option>
           <option value="boxer">Boxer</option>
+          <option value="pomeranian">Sakoo</option>
+          <option value="bulldog">Pluto and Friends</option>
         </select>
 
         <div>
